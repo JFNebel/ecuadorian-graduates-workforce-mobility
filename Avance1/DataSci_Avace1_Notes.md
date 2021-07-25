@@ -28,3 +28,13 @@
 1. Justificar y usar una esrategia.
 2. Subir los notebooks y los dtaset
 
+
+
+
+
+## PREGUNTAS
+1. Cuales son las habilidades mas demandadas en las top 100 comapnias (elaborar)
+2. Por categoria de universidad que porcentaje de la fuerza laboral representan los graduados de esa uni (join
+   con unis)
+3. Cuales son las areas (cargo) que más demandas (elaborar).
+
