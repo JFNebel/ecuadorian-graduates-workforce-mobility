@@ -84,9 +84,22 @@
 <! ===================================================================>
 
 
+<! ============================== POSIBLES INDUSTRIAS=============================>
 
+## DATASET TENTATIVAS
+1. Farmaceutica
+2. Manufactura
+3. Industria Automotriz
+4. Agricultura/Agropecuaria
+5. Telecomunicaciones/informatica
+6. Logistica/transporte
+7. Mineria
+8. Retail
+9. Mayoristas
+10. Construccion
+11. Otro
 
-
+pilas el 61
 
 <! ============================== WS =================================>
 1. Correlación: revisar el factor de corerlación mejor usar sperman por defecto pandas usa person y es solo
